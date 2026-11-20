@@ -1,5 +1,10 @@
 # INVESTMATE – Complete Full-Stack Financial Awareness Platform
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Render-brightgreen?style=for-the-badge&logo=render)](https://investmate-wl2g.onrender.com/)
+[![Node.js](https://img.shields.io/badge/Backend-Node.js_Express-informational?style=for-the-badge&logo=node.js)](https://investmate-wl2g.onrender.com/)
+[![React](https://img.shields.io/badge/Frontend-React_Vite-blue?style=for-the-badge&logo=react)](https://investmate-wl2g.onrender.com/)
+
+> 🌐 **Live Application URL:** **[https://investmate-wl2g.onrender.com/](https://investmate-wl2g.onrender.com/)**  
 > **A Lightweight, Educational, and Transparent Welfare Scheme Information Platform**  
 > *Designed especially for rural families, smallholder farmers, senior citizens, and frontline workers (ASHA / Anganwadi).*
 
